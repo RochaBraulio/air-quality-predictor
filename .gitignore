@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+.envrc
+
+# Data & outputs
+data/
+outputs/
+logs/
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
