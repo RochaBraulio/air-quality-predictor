@@ -1,0 +1,11 @@
+name: air-quality-predictor
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - matplotlib=3.10.*
+  - pandas=2.3.*
+  - requests=2.32.*
+  - numpy=2.3.*
+  - scikit-learn=1.7.*
+  - pytest=8.4.*
