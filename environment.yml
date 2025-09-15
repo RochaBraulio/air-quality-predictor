@@ -10,3 +10,6 @@ dependencies:
   - scikit-learn=1.7.*
   - pytest=8.4.*
   - jupyterlab=4.4*
+  - pip
+  - pip:
+      - openaq
